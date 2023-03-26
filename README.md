@@ -1,7 +1,8 @@
 # PictureResizeTool
 Offline tool to resize pictures to a custom resolution and convert it to any format, supports .ico files.
 
-![image](https://user-images.githubusercontent.com/127464956/227805019-e73f9ae6-33c9-4544-a3a2-ca88571a071d.png)
+![image](https://user-images.githubusercontent.com/127464956/227805663-e5714aa0-6a88-4c5b-aca9-7d3b9a4c8172.png)
+
 screenshot
 
 ### PictureResizeTool features:
